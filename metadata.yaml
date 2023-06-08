@@ -1,0 +1,31 @@
+_repo: Guatemala-b-The-land-of-the-quetzal_70929
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Brigham, William Tufts
+    aliases:
+    - Brigham, W. T. (William Tufts)
+    - Brigham, William T. (William Tufts)
+    birthdate: 1841
+    deathdate: 1926
+    gutenberg_agent_id: '40229'
+    url: http://www.gutenberg.org/2009/agents/40229
+description: ''
+gutenberg_issued: '2023-06-06'
+identifiers:
+  gutenberg: '70929'
+language: en
+pgterms:marc904: https://archive.org/details/guatemalalandofq00brigiala
+pgterms:marc905: 20210529105513brigham
+pgterms:marc906: '1887'
+pgterms:marc907: us
+production_note: Peter Becker and the Online Distributed Proofreading Team at https://www.pgdp.net
+  (This file was produced from images generously made available by The Internet Archive)
+publication_note: '  $aUnited States :$bCharles Scribner''s sons, $c1887.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: 'Guatemala : $b The land of the quetzal'
+url: http://www.gutenberg.org/ebooks/70929
