@@ -1,5 +1,8 @@
 _repo: Guatemala-b-The-land-of-the-quetzal_70929
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 70929-h/images/cover.jpg
 creator:
   author:
     agent_name: Brigham, William Tufts
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '40229'
     url: http://www.gutenberg.org/2009/agents/40229
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/70929#Guatemala-b-The-land-of-the-quetzal
 gutenberg_issued: '2023-06-06'
 identifiers:
   gutenberg: '70929'
